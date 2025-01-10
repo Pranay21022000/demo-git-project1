@@ -1,5 +1,11 @@
 #!/bin/bash 
 
+#Author : john
+#date : 12/10/2015
+#description : this is calculator shell script 
+##############################################
+
+
 # Addition functionality
 
 x + y = z

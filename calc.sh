@@ -12,3 +12,7 @@ x - y = z
 # devision functionality 
 
 X / y = z
+
+# multiplication functionality 
+
+x * y = z 
